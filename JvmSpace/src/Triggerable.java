@@ -1,0 +1,3 @@
+interface Triggerable {
+	void trigger();
+}
