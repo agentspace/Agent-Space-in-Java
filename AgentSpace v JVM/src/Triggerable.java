@@ -1,3 +1,5 @@
+
 interface Triggerable {
-	void trigger();
+
+    void trigger();
 }

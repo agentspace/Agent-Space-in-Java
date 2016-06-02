@@ -1,9 +1,9 @@
+
 public class Main {
 
-	public static void main (String[] args) {
-		new Agent1();
-		new Agent2();
-                new Agent2();
-	}
+    public static void main(String[] args) {
+        new Agent1();
+        new Agent2();
+    }
 
 }
